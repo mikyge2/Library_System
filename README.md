@@ -1,7 +1,7 @@
 Library System
-
-This is mini library system that manages the loaning and returning of books.
 -----------------------------
+This is mini library system that manages the loaning and returning of books.
+
 
 Databse of the library currently looks like:
 
