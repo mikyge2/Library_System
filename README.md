@@ -1,4 +1,7 @@
+Library System
 This is mini library system that manages the loaning and returning of books.
+-----------------------------
+
 Databse of the library currently looks like:
 
 ![image](https://user-images.githubusercontent.com/103429957/192099878-16628d70-396f-451a-8949-ee2706dbc167.png)
